@@ -112,4 +112,4 @@ MIT License
 
 ---
 
-**Made with ❤️ by lazy_sharaf** 
+**Made by lazy_sharaf** 
